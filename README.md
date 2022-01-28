@@ -8,5 +8,8 @@ Estoy comenzando mi escalada en el Desarrollo de aplicaciones y publicación de 
 Por el momento esto es todo lo que voy a ir ubicando en esta sección que ire ampliando con el resto de datos.
 
 Un saludo y sobre todo sean felices.
+
+
+
 ![Logo](https://github.com/IvBanzaga/IvBanzaga/blob/main/M42%2029-12-2021%20F.jpg)
 
