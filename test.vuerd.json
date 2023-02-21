@@ -1,0 +1,274 @@
+{
+  "canvas": {
+    "version": "2.2.11",
+    "width": 2000,
+    "height": 2000,
+    "scrollTop": -6,
+    "scrollLeft": 0,
+    "zoomLevel": 1,
+    "show": {
+      "tableComment": true,
+      "columnComment": true,
+      "columnDataType": true,
+      "columnDefault": true,
+      "columnAutoIncrement": false,
+      "columnPrimaryKey": true,
+      "columnUnique": false,
+      "columnNotNull": true,
+      "relationship": true
+    },
+    "database": "MySQL",
+    "databaseName": "institdb",
+    "canvasType": "ERD",
+    "language": "GraphQL",
+    "tableCase": "pascalCase",
+    "columnCase": "camelCase",
+    "highlightTheme": "VS2015",
+    "bracketType": "none",
+    "setting": {
+      "relationshipDataTypeSync": true,
+      "relationshipOptimization": false,
+      "columnOrder": [
+        "columnName",
+        "columnDataType",
+        "columnNotNull",
+        "columnUnique",
+        "columnAutoIncrement",
+        "columnDefault",
+        "columnComment"
+      ]
+    },
+    "pluginSerializationMap": {}
+  },
+  "table": {
+    "tables": [
+      {
+        "name": "estudiante",
+        "comment": "",
+        "columns": [
+          {
+            "name": "studian_id",
+            "comment": "",
+            "dataType": "INT(11)",
+            "default": "",
+            "option": {
+              "autoIncrement": false,
+              "primaryKey": true,
+              "unique": false,
+              "notNull": true
+            },
+            "ui": {
+              "active": false,
+              "pk": true,
+              "fk": false,
+              "pfk": false,
+              "widthName": 61,
+              "widthComment": 60,
+              "widthDataType": 60,
+              "widthDefault": 60
+            },
+            "id": "39d74b96-51b3-48cb-a96d-9dbe32746264"
+          },
+          {
+            "name": "studian_name",
+            "comment": "",
+            "dataType": "VARCHAR(11)",
+            "default": "",
+            "option": {
+              "autoIncrement": false,
+              "primaryKey": false,
+              "unique": false,
+              "notNull": true
+            },
+            "ui": {
+              "active": false,
+              "pk": false,
+              "fk": false,
+              "pfk": false,
+              "widthName": 83,
+              "widthComment": 60,
+              "widthDataType": 85,
+              "widthDefault": 60
+            },
+            "id": "cdb2312f-3b8d-4f6d-86e0-5a8981ed0e91"
+          },
+          {
+            "name": "studian_direccion",
+            "comment": "",
+            "dataType": "VARCHAR(250)",
+            "default": "",
+            "option": {
+              "autoIncrement": false,
+              "primaryKey": false,
+              "unique": false,
+              "notNull": true
+            },
+            "ui": {
+              "active": false,
+              "pk": false,
+              "fk": false,
+              "pfk": false,
+              "widthName": 103,
+              "widthComment": 60,
+              "widthDataType": 93,
+              "widthDefault": 60
+            },
+            "id": "f3d3ad22-dd58-487c-96cc-8c98d1294111"
+          },
+          {
+            "name": "studian_telefono",
+            "comment": "",
+            "dataType": "NUMERIC",
+            "default": "",
+            "option": {
+              "autoIncrement": false,
+              "primaryKey": false,
+              "unique": false,
+              "notNull": true
+            },
+            "ui": {
+              "active": false,
+              "pk": false,
+              "fk": false,
+              "pfk": false,
+              "widthName": 96,
+              "widthComment": 60,
+              "widthDataType": 61,
+              "widthDefault": 60
+            },
+            "id": "646dff83-b8dc-41ba-9cfb-4fde4cb5160e"
+          }
+        ],
+        "ui": {
+          "active": false,
+          "left": 20,
+          "top": 51,
+          "zIndex": 1,
+          "widthName": 62,
+          "widthComment": 60
+        },
+        "visible": true,
+        "id": "163bbf28-a600-4c24-9e9d-2321b388900f"
+      },
+      {
+        "name": "curso",
+        "comment": "",
+        "columns": [
+          {
+            "name": "curso_nombre",
+            "comment": "",
+            "dataType": "VARCHAR(50)",
+            "default": "",
+            "option": {
+              "autoIncrement": false,
+              "primaryKey": false,
+              "unique": false,
+              "notNull": true
+            },
+            "ui": {
+              "active": false,
+              "pk": false,
+              "fk": false,
+              "pfk": false,
+              "widthName": 84,
+              "widthComment": 60,
+              "widthDataType": 86,
+              "widthDefault": 60
+            },
+            "id": "825871d7-fafa-4fd5-92cb-a5152ef934f1"
+          },
+          {
+            "name": "curso_numero",
+            "comment": "",
+            "dataType": "NUMERIC",
+            "default": "",
+            "option": {
+              "autoIncrement": false,
+              "primaryKey": false,
+              "unique": false,
+              "notNull": true
+            },
+            "ui": {
+              "active": false,
+              "pk": false,
+              "fk": false,
+              "pfk": false,
+              "widthName": 84,
+              "widthComment": 60,
+              "widthDataType": 61,
+              "widthDefault": 60
+            },
+            "id": "f951ea10-187d-4aae-88f7-52a491fd4ef4"
+          },
+          {
+            "name": "studian_id",
+            "comment": "",
+            "dataType": "INT(11)",
+            "default": "",
+            "option": {
+              "autoIncrement": false,
+              "primaryKey": false,
+              "unique": false,
+              "notNull": true
+            },
+            "ui": {
+              "active": false,
+              "pk": false,
+              "fk": true,
+              "pfk": false,
+              "widthName": 61,
+              "widthComment": 60,
+              "widthDataType": 60,
+              "widthDefault": 60
+            },
+            "id": "fd6d6034-78a1-4f63-be22-85c8fa6e7b8d"
+          }
+        ],
+        "ui": {
+          "active": false,
+          "left": 584,
+          "top": 59,
+          "zIndex": 2,
+          "widthName": 60,
+          "widthComment": 60
+        },
+        "visible": true,
+        "id": "b6d3081e-c2d9-49d2-93dc-7148f522cda8"
+      }
+    ],
+    "indexes": []
+  },
+  "memo": {
+    "memos": []
+  },
+  "relationship": {
+    "relationships": [
+      {
+        "identification": false,
+        "relationshipType": "ZeroN",
+        "startRelationshipType": "Dash",
+        "start": {
+          "tableId": "163bbf28-a600-4c24-9e9d-2321b388900f",
+          "columnIds": [
+            "39d74b96-51b3-48cb-a96d-9dbe32746264"
+          ],
+          "x": 443,
+          "y": 126.5,
+          "direction": "right"
+        },
+        "end": {
+          "tableId": "b6d3081e-c2d9-49d2-93dc-7148f522cda8",
+          "columnIds": [
+            "fd6d6034-78a1-4f63-be22-85c8fa6e7b8d"
+          ],
+          "x": 584,
+          "y": 124.25,
+          "direction": "left"
+        },
+        "constraintName": "fk_estudiante_to_curso",
+        "visible": true,
+        "id": "b52d300d-cde4-47cd-a72a-b508375e0376"
+      }
+    ]
+  }
+}
