@@ -13,3 +13,5 @@ Un saludo y sobre todo sean felices.
 
 ![Logo](https://github.com/IvBanzaga/IvBanzaga/blob/main/M42%2029-12-2021%20F.jpg)
 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+
