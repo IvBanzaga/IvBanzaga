@@ -42,7 +42,6 @@ Estoy en los primeros pasos de mi camino como desarrollador, con ganas de seguir
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/IvanGon08379247) 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/astrotenerife/) 
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://facebook.com/ibazaga/) 
-[![Website](https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://www.astrotenerife.com/)
 
 📧 **Correo:** [ivan.cpweb@gmail.com](mailto:ivan.cpweb@gmail.com)
 
