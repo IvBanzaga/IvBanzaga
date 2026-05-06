@@ -43,7 +43,18 @@ Estoy en los primeros pasos de mi camino como desarrollador, con ganas de seguir
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/astrotenerife/) 
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://facebook.com/ibazaga/) 
 
-📧 **Correo:** [ivan.cpweb@gmail.com](mailto:ivan.cpweb@gmail.com)
+
+Desarrollador Frontend/Backend y ecosistemas web modernos. Estudiante intermedio con pasión por crear aplicaciones web modernas y eficientes.
+
+### 📞 Información de Contacto
+
+| Plataforma | Enlace | Descripción |
+|------------|---------|-------------|
+| 📦 GitHub | [@IvBanzaga](https://github.com/IvBanzaga/) | Repositorios y proyectos de código |
+| 💼 LinkedIn | [Iván Bazaga](https://www.linkedin.com/in/ivan-bazaga-gonzalez/) | Perfil profesional y networking |
+| 📧 Email | [ivan.cpweb@gmail.com](mailto:ivan.cpweb@gmail.com) | Contacto directo para oportunidades |
+| 🌐 Portfolio | [Ivandevs.netlify.app](https://ivandevs.netlify.app/) | Showcase de proyectos y skills |
+| 🏙️ Proyecto | [Creamiproyecto.com](https://creamiproyecto.com/) | Landing page del proyecto |
 
 ---
 
