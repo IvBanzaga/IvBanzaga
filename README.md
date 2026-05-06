@@ -47,10 +47,6 @@ Estoy en los primeros pasos de mi camino como desarrollador, con ganas de seguir
 
 ---
 
-## 📊 GitHub Stats
-
-[![Iván GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=IvBanzaga&show_icons=true&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=IvBanzaga&layout=compact&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
